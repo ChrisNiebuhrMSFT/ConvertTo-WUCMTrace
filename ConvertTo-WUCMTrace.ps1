@@ -5,7 +5,7 @@
 Creates a CMTrace compatible Logfile from the Windows 10 / Server 2016/19 Windows Updates ETL-Files.
 Afterwards, you can merge this file with other MECM related files. Might be useful for further troubleshooting
 .EXAMPLE
-ConvertTO-WuCMTrace
+ConvertTo-WuCMTrace
 Start CMTrace and open the created Logfile
 .NOTES
 Author:  Microsoft (ChNieb@Microsoft.com)
